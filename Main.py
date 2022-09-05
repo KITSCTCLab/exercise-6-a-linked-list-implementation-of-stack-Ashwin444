@@ -46,7 +46,7 @@ class Stack:
         else:
             print('Popped value: ', int(popped))
     elif operation == 'quit':
-        
+        break
 
 
 # Do not change the following code
